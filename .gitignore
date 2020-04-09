@@ -8,6 +8,8 @@
 /bazel-out
 
 /src/app/hello/dist
+pnpm-debug.log
+pnpm-lock.yaml
 
 # dependencies
 /node_modules
